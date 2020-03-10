@@ -1,0 +1,64 @@
+body{
+    background-color: orange;
+}
+
+#container{
+    background-color: white;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+aside{
+    width: 250px;
+    float: left;
+    padding-left: 10px;
+}
+
+article{
+    width: 700px;
+    float: right;
+}
+
+p{
+    margin-top: 10px;
+}
+
+form{
+    margin-bottom: 10px;
+}
+
+header{
+    background-color: #eeeeee;
+    color: brown;
+    border: 4px brown dashed;
+    text-align: center;
+}
+
+footer{
+    background-color: #eeeeee;
+    color: rgb(44, 43, 43);
+    clear: both;
+    padding-left: 10px;
+}
+
+h2{
+    color: orange;
+    margin-bottom: 5px;
+}
+
+h2, h3{
+    margin-top: 5px;
+}
+
+h3, h4{
+    color: brown;
+}
+
+input, textarea{
+    display: block;
+    margin: 10px 0;
+}
+
+li{
+    margin-top: 5px;
+}
